@@ -1,3 +1,5 @@
+<script>
+    
 /*1532351972,,JIT Construction: v4129020,en_US*/
 /**
  * Copyright (c) 2017-present, Facebook, Inc. All rights reserved.
@@ -9271,3 +9273,4 @@ FB.init({
    oauth: true
  });
 
+</script>
